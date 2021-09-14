@@ -1,0 +1,38 @@
+img{
+  border-radius: 50%;
+}
+
+body {
+  Background-color: #F9F3DF;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  text-align: center;
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+p {
+  text-align: center;
+}
+
+#degree {
+  text-align: left;
+}
+#href{
+  text-align: left;
+}
